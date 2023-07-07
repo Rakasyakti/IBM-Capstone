@@ -1,4 +1,4 @@
-# IBM-Capstone
+# Fish species image classification model
 A capstone project as part of IBM artificial intelligence and cybersecurity course. Project domain is in artificial intelligence, specifically image classification.
 The purpose of the project is to classify images of five different fish species found in the Indian subcontinent as accurately as possible.
 The code and project is based on IBM Artificial Intelligence Patterns, specifically on "Build and image classification model" found on https://developer.ibm.com/patterns/build-an-american-sign-language-alphabet-classifier-using-pytorch-and-gpu-environments-on-watson-studio/
