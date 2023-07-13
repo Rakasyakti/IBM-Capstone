@@ -12,3 +12,8 @@ The dataset used is acquired from Kaggle and is provided by Ritik Bompilwar.
 A total of 1033 images from 5 class is available for training, validating, and testing in a 70:20:10 ratio respectively.
 
 Dataset link: https://www.kaggle.com/datasets/ritikbompilwar/fishes-species-in-the-indian-subcontinent
+
+# Portable version
+The code assumes that dataset folder structuring is as how it is structured in this repository.
+For easier usage, a portable version of the code is also provided.
+The portable code will download the dataset from Kaggle and restructure it to match the required structuring, all within the code without need of external management.
